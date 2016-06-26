@@ -1,0 +1,162 @@
+body {
+  margin: 0;
+}
+
+.text {
+  padding: 20px 30px 20px 30px;
+}
+
+.item {
+  padding: 0 10px 20px 10px;
+}
+
+.drawer {
+  padding: 20px;
+  padding-right:0;
+  width: 25% !important;
+}
+
+.subtitle {
+  color: #616161;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.center-div {
+  margin: auto;
+  display: block;
+}
+
+.card {
+  margin: 40px 0;
+  width: 63%;
+  margin-left: 31%;
+}
+
+.dates {
+  color: #777;
+}
+
+.progress-bar {
+  height: 15px !important;
+  width: 60% !important;
+  float:right;
+}
+
+.label {
+  margin: 1rem;
+}
+
+.skill-label {
+  width: 25%;
+  font-size: 1.2rem;
+  text-align: left;
+  margin-right: 10%;
+  line-height: 2.5rem;
+}
+
+.skillset {
+  width: 60%;
+  justify-content: space-around;
+  align-items: center;
+  align-content: space-around;
+}
+
+.center-flex {
+  justify-content: space-around;
+  align-items: center;
+  align-content: space-around;
+}
+
+.flex-grid {
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.skill {
+  clear: right;
+  margin: 15px;
+}
+
+.column {
+  width: 60%;
+  display: block;
+  float: right;
+}
+
+.skillicon {
+  font-size: 2.5rem !important;
+  margin-bottom: 1rem;
+}
+
+.empty {
+  color: #E0E0E0 !important;
+}
+
+.lang-grid{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  align-content: space-around;
+}
+
+.circular-skill label {
+  width: 100%;
+  text-align: center;
+  display: block;
+  font-size: 1.2rem;
+}
+
+.circular-skill .label-subtitle {
+  color: #616161;
+  font-size: 1rem;
+}
+
+body {
+  font-size: 1.2rem;
+}
+
+#profile-block {
+  display: none;
+}
+
+@media (max-width: 900px ) {
+  .drawer {
+    display: none;
+  }
+  .card {
+    margin: 20px;
+    width: auto;
+  }
+
+  #profile-block {
+    display: block;
+  }
+
+  .skill-label {
+    width: 100% !important;
+    display: block;
+    text-align: center;
+  }
+
+  .skillset {
+    width: 100%;
+    padding-bottom: 2rem;
+  }
+
+  .column {
+    width: 100%;
+    floar: none;
+  }
+}
+
+.smallblock {
+  margin: 20px;
+}
+
+.smallblock ul, .smallblock li {
+  list-style: disc;
+}

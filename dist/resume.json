@@ -1,0 +1,221 @@
+{
+  "basics": {
+    "name": "Niccolò Cantù",
+    "label": "Front-End Web Developer",
+    "picture": "imgs/profile.jpg",
+    "email": "niccolocantu@gmail.com",
+    "website": "http://nicokant.xyz",
+    "bornDate": "1994-01-01",
+    "summary": "I'm Niccolò, a student of Digital Communication at Università degli studi di Milano. I am also a Web Developer at KJuicer.com, a startup concerning the education field which is building an awesome tool to access knowledge in a better way. In my free time I keep myself up to date with new technologies, in particular Web related ones.",
+    "location": {
+      "city": "Milano",
+      "countryCode": "IT",
+      "region": "Lombardia"
+    },
+    "profiles": [
+      {
+        "network": "twitter",
+        "username": "nicokant",
+        "url": "https://twitter.com/nicokant"
+      },
+      {
+        "network": "github",
+        "username": "nicokant94",
+        "url": "https://github.com/nicokant94"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "KJuicer.com",
+      "position": "Web Developer",
+      "company_logo": "",
+      "website": "http://kjuicer.com",
+      "startDate": "2015-03-15",
+      "summary": "KJuicer is a tool that allows the user to extract the knowledge from a text with a set of hierarchical highlights. As Web Developer I built the User Interface, I worked on the User Experience, I developed a Telegram Bot and an Addon/Extension.",
+      "highlights": [
+        "Developed a new interface for KJuicer",
+        "Built @KjuicerBot, the Telegram Bot of KJuicer",
+        "Built a WebEXT and Firefox Addon"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Mozilla",
+      "position": "Developer",
+      "website": "http://firefoxmilano.it/",
+      "startDate": "2014-01-01",
+      "summary": "As Volunteer at Mozilla I focused myself on Web Apps developed for Firefox OS, developing and publishing several apps on the Marketplace",
+      "highlights": [
+        "Awarded 'Contributor of the Month December 2013'",
+      	"Developed several apps for Firefox OS",
+      	"Member of the 'App Reviewer Team'"
+      ]
+    },
+    {
+      "organization": "ITIS (State Industrial and Technical Institute) 'Einstein' - Vimercate (MB)",
+      "position": "Relator",
+      "startDate": "2016-03-10",
+      "endDate": "2016-03-15",
+      "summary": "As Relator in a project of work-related learning, I taught two classes how to develop Hybrid and Cross-Device Web Applications"
+    },
+    {
+      "organization": "Firefox Club Milano",
+      "position": "Co-Founder/Club Lead",
+      "website": "http://firefoxmilano.it/",
+      "startDate": "",
+      "summary": "The Firefox Club Milano is part of the Firefox Student Ambassador Project, which aims to bring Mozilla inside the university to spread the Open Web awareness",
+      "highlights": [
+        "Organized several meetups",
+        "I was invited as speaker at the university of Pavia's conference 'WTF is Technology and Future'"
+      ]
+    },
+    {
+      "organization": "Mozilla",
+      "position": "Firefox OS QA Hackathon",
+      "website": "https://wiki.mozilla.org/QA/Paris_QA_Meetup_2015",
+      "startDate": "2015-10-24",
+      "endDate": "2015-10-25",
+      "summary": "I partecipated at an hackathon at Mozilla Paris Office, only five participants were selected from all Europe."
+    },
+    {
+      "organization": "Mozilla",
+      "position": "Speaker",
+      "website": "",
+      "summary": "I partecipated as a Mozilla Speaker to two conferences, talking about the aim of the project and the Web Compatibility",
+      "highlights": [
+        "Speaker at 'Open Source Day' in Udine, the biggest Italian events about Free Software.",
+        "Speaker at the university of Pavia's conference 'WTF is Technology and Future'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Milan",
+      "area": "Digital Communication",
+      "studyType": "Bachelor Degree",
+      "startDate": "2013-09-29",
+      "gpa": "",
+      "courses": [
+        "Java Programming",
+        "Virtual Realities",
+      	"Visual Communication",
+      	"Databases and SQL"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Contributor of the Month",
+      "date": "2014-12-31",
+      "awarder": "Mozilla",
+      "url": "",
+      "summary": "I published several apps in the Firefox Marketplace, I also wrote a chapter of the Italian 'Quick Development Guide for Firefox OS'"
+    },
+    {
+      "title": "Mozilla Vouched Volunteer",
+      "date": "2015-01-1",
+      "awarder": "Mozilla",
+      "summary": "Thanks to my partecipation in the Italian Community, I have been vouched as Mozillian."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Quick Development Guide for Firefox OS",
+      "publisher": "LeanPub",
+      "website": "https://leanpub.com/guidavelocesviluppofirefoxos",
+      "releaseDate": "2014-03",
+      "summary": "A translation by the Italian Community of the book from Andrè Garzia, I wrote a chapter about using Github as hosting for Firefox OS Webapps"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML5, CSS3",
+      "level": "5",
+      "shape": "html5-plain",
+      "adj": "Master"
+    },
+    {
+      "name": "Javascript",
+      "level": "4",
+      "shape": "javascript-plain",
+      "adj": "Expert"
+    },
+    {
+      "name": "React & Redux",
+      "level": "4",
+      "shape": "react-original",
+      "adj": "Expert"
+    },
+    {
+      "name": "Webpack, Babel, Grunt",
+      "level": "2",
+      "shape": "grunt-plain",
+      "adj": "Good"
+    },
+    {
+      "name": "Bootstrap, Materialize",
+      "level": "4",
+      "shape": "bootstrap-plain",
+      "adj": "Expert"
+    },
+    {
+      "name": "git",
+      "level": "4",
+      "shape": "git-plain",
+      "adj": "Expert"
+    },
+    {
+      "name": "GNU/Linux",
+      "level": "3",
+      "shape": "linux-plain",
+      "adj": "Proficient"
+    },
+    {
+      "name": "Django",
+      "level": "2",
+      "shape": "django-plain",
+      "adj": "Good"
+    },
+    {
+      "name": "PHP & SQL",
+      "level": "2",
+      "shape": "php-plain",
+      "adj": "Good"
+    },
+    {
+      "name": "Nodejs & MongoDB",
+      "level": "3",
+      "shape":"nodejs-plain",
+      "adj": "Proficient"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Italian",
+      "fluency": "Mother tongue",
+      "level": "10"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced",
+      "level": "8"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Erlich Bachman",
+      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+    }
+  ]
+}
