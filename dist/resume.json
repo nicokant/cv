@@ -6,7 +6,7 @@
     "email": "niccolocantu@gmail.com",
     "website": "http://nicokant.xyz",
     "bornDate": "1994-01-01",
-    "summary": "I'm Niccolò, a student of Digital Communication at Università degli studi di Milano. I am also a Web Developer at KJuicer.com, a startup concerning the education field which is building an awesome tool to access knowledge in a better way. In my free time I keep myself up to date with new technologies, in particular Web related ones.",
+    "summary": "I'm Niccolò, a student of Digital Communication at Università degli studi di Milano. I am also a Web Developer at KJuicer.com, a startup that works in the education field which is building an awesome tool to access knowledge in a better way. In my free time I keep myself up to date with new technologies, in particular Web related ones.",
     "location": {
       "city": "Milano",
       "countryCode": "IT",
@@ -58,17 +58,17 @@
       "position": "Relator",
       "startDate": "2016-03-10",
       "endDate": "2016-03-15",
-      "summary": "As Relator in a project of work-related learning, I taught two classes how to develop Hybrid and Cross-Device Web Applications"
+      "summary": "As a relator in a project of work-related learning, I taught two classes how to develop Hybrid and Cross-Device Web Applications."
     },
     {
       "organization": "Firefox Club Milano",
       "position": "Co-Founder/Club Lead",
       "website": "http://firefoxmilano.it/",
       "startDate": "",
-      "summary": "The Firefox Club Milano is part of the Firefox Student Ambassador Project, which aims to bring Mozilla inside the university to spread the Open Web awareness",
+      "summary": "The Firefox Club Milano is part of the Firefox Student Ambassador Project, which aims to bring Mozilla inside the universities in order to spread the Open Web awareness.",
       "highlights": [
         "Organized several meetups",
-        "I was invited as speaker at the university of Pavia's conference 'WTF is Technology and Future'"
+        "I was invited as speaker at the University of Pavia's conference 'WTF is Technology and Future'"
       ]
     },
     {
@@ -77,13 +77,13 @@
       "website": "https://wiki.mozilla.org/QA/Paris_QA_Meetup_2015",
       "startDate": "2015-10-24",
       "endDate": "2015-10-25",
-      "summary": "I partecipated at an hackathon at Mozilla Paris Office, only five participants were selected from all Europe."
+      "summary": "I partecipated at an hackathon at Mozilla Paris Office; only five participants were selected from all Europe."
     },
     {
       "organization": "Mozilla",
       "position": "Speaker",
       "website": "",
-      "summary": "I partecipated as a Mozilla Speaker to two conferences, talking about the aim of the project and the Web Compatibility",
+      "summary": "I partecipated as a Mozilla Speaker to two conferences, talking about the aim of the project and the Web Compatibility.",
       "highlights": [
         "Speaker at 'Open Source Day' in Udine, the biggest Italian events about Free Software.",
         "Speaker at the university of Pavia's conference 'WTF is Technology and Future'"
@@ -126,7 +126,7 @@
       "publisher": "LeanPub",
       "website": "https://leanpub.com/guidavelocesviluppofirefoxos",
       "releaseDate": "2014-03",
-      "summary": "A translation by the Italian Community of the book from Andrè Garzia, I wrote a chapter about using Github as hosting for Firefox OS Webapps"
+      "summary": "In the translation by the Italian Community of the book from Andrè Garzia I inserted a chapter about using Github as hosting for Firefox OS Webapps"
     }
   ],
   "skills": [
@@ -161,7 +161,7 @@
       "adj": "Expert"
     },
     {
-      "name": "git",
+      "name": "Git",
       "level": "4",
       "shape": "git-plain",
       "adj": "Expert"
