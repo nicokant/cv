@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Niccolò Cantù",
-    "label": "Front-End Web Developer",
+    "label": "Full Stack Web Developer",
     "picture": "imgs/profile.jpg",
     "email": "niccolocantu@gmail.com",
     "website": "http://nicokant.xyz",
     "bornDate": "1994-01-01",
-    "summary": "I'm Niccolò, a student of Digital Communication at Università degli studi di Milano. I am also a Web Developer at KJuicer.com, a startup that works in the education field which is building an awesome tool to access knowledge in a better way. In my free time I keep myself up to date with new technologies, in particular Web related ones.",
+    "summary": "I'm Niccolò, a student of Digital Communication at Università degli studi di Milano. I am also a Full Stack Web Developer at KJuicer.com, a startup that works in the education field which is building an awesome tool to access knowledge in a better way. In my free time I keep myself up to date with new technologies, in particular Web related ones.",
     "location": {
       "city": "Milano",
       "countryCode": "IT",
@@ -28,7 +28,7 @@
   "work": [
     {
       "company": "KJuicer.com",
-      "position": "Web Developer",
+      "position": "Full Stack Web Developer",
       "company_logo": "",
       "website": "http://kjuicer.com",
       "startDate": "2015-03-15",
@@ -36,7 +36,34 @@
       "highlights": [
         "Developed a new interface for KJuicer",
         "Built @KjuicerBot, the Telegram Bot of KJuicer",
-        "Built a WebEXT and Firefox Addon"
+        "Built a WebEXT and Firefox Addon",
+        "Developed Website",
+        "Wrote an algorithm to extract relevant nodes from a Web page"
+      ]
+    },
+    {
+      "company": "Ottica dei Portici",
+      "position": "Freelance Developer",
+      "company_logo": "",
+      "website": "http://otticadeiportici.bg.it",
+      "startDate": "2016-10-1",
+      "summary": "Massimo wanted to enhance his clients' experience with the renewal of contact lenses. The app itself is built with React Native and the administrator dashboard is built with Firebase and React.",
+      "highlights": [
+        "Developed Website (working on)",
+        "Developed a realtime dashboard for handling orders",
+        "Released the app on Play Store"
+      ]
+    },
+    {
+      "company": "Everywhere Technologies",
+      "position": "React Native - Internship",
+      "company_logo": "",
+      "website": "http://otticadeiportici.bg.it",
+      "startDate": "2017-11-1",
+      "summary": "Everywhere Technologies has a developed an iOS app to teach maths to visually impaired children. My internship consists of a research about the cross platform issues with accessibility in particular with React Native.",
+      "highlights": [
+        "Focus on accessibility technologies",
+        "The app will be released to the both stores."
       ]
     }
   ],
@@ -101,7 +128,9 @@
         "Java Programming",
         "Virtual Realities",
       	"Visual Communication",
-      	"Databases and SQL"
+      	"Databases and SQL",
+        "3D Digital Images",
+        "React Native"
       ]
     }
   ],

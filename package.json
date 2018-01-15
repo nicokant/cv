@@ -27,6 +27,7 @@
     "jquery": "^3.0.0",
     "material-ui": "^0.15.0",
     "moment": "^2.13.0",
+    "nuka-carousel": "^3.0.1",
     "react": "^15.1.0",
     "react-dom": "^15.1.0",
     "react-router": "^2.5.0",
