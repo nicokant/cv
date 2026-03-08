@@ -1,0 +1,246 @@
+cv:
+  name: Niccolò Cantù
+  headline: Full Stack GIS Software Developer
+  location: Oslo, NO
+  website: https://www.nicokant.eu
+  social_networks:
+    - network: GitHub
+      username: nicokant
+    - network: LinkedIn
+      username: niccolo-cantu
+  photo: ./profile_round.png
+
+  sections:
+    work_experience:
+      - company: Norsk Institutt for Naturforskning
+        position: Overingeniør-IT
+        location: Trondheim -> Oslo, NO
+        start_date: 2023-10
+        end_date: present
+        highlights:
+          - Development of software for research projects, with strong focus on
+            data management and spatial data.
+          - "Development of internal infrastructure: [Data Management
+            System](https://github.com/NINAnor/dms), [Map
+            Portal](https://maps.nina.no/),
+            [pipelines](https://ninanor.github.io/miljodata-datasync/), and
+            standardization of common practices, DevOps."
+          - Data engineering, data migration, technical support and training.
+
+      - company: Kjuicer.com
+        position: Full Stack Developer
+        location: Milan, IT
+        start_date: 2015-03
+        end_date: 2023-03
+        highlights:
+          - Development of the Kjuicer platform, a solution powered by Django
+            and JavaScript which enables users to extract multiple summaries of
+            a webpage.
+          - Development of an online editor and a publishing system. That same
+            year Kjuicer got access to the EU SME Instrument Horizon 2020
+            funding.
+
+      - company: MAD srl
+        position: Freelance Full Stack Software Developer
+        location: Milan, IT
+        start_date: 2020-05
+        end_date: 2023-10
+        highlights:
+          - Development of a Django-React whitelabel web application to manage
+            online events during the COVID pandemic.
+
+      - company: Norwegian Institute for Nature Research
+        position: Freelance Full Stack Software Developer
+        location: Milan, IT
+        start_date: 2021-12
+        end_date: 2023-10
+        highlights:
+          - Development of Viltkamera Admin, a Django Web Application to store
+            metadata relative to the Viltkamera project annotations. The WebApp
+            React frontend interacts with a Django backend and integrates with
+            the timeseries annotations software.
+
+      - company: Gisdev.io srl
+        position: Freelance Software Developer
+        location: Como, IT
+        start_date: 2018-09
+        end_date: 2023-10
+        highlights:
+          - Development of a web application to organize and search clinical
+            records for the psychiatric department of San Raffaele Hospital.
+          - Development of GeoPGT, a desktop GIS application powered by Electron
+            and React for the Lombardy Region that verifies the topological
+            accuracy of public ground usage datasets.
+          - "Contribution to the development of [Milano
+            Aiuta](https://play.google.com/store/apps/details?id=gisdevio.milan\
+            oaiuta&hl=it&gl=US), a mobile application that displays a map of
+            food delivery stores available in the city of Milan."
+          - "Development of a React map that shows [accessibility
+            POIs](https://barriere.wikimedia.it/) for Open Street Map Italy."
+          - "Development of
+            [www.waterspatialplanning.eu](https://www.waterspatialplanning.eu),
+            a geoportal based on Geonode 3 with a React interface that allows
+            the execution of remote analysis using data uploaded on the portal."
+          - "Customization of the [CKAN theme](https://catalogue.tools4msp.eu/)
+            of Tools4MSP catalogue."
+          - Support and deployment of Lizmap instances using Docker compose.
+
+      - company: Code Atlas srl
+        position: Freelance Full Stack Developer
+        location: Milan, IT
+        start_date: 2018-12
+        end_date: 2023-10
+        highlights:
+          - Development of React backoffices for many projects related to IoT
+            and Digital Tax management.
+          - Development of a serverless backoffice powered by React and Firebase
+            for a Social Reading project for Pearson, an Italian publishing
+            house specializing in education.
+          - Development of a catalog of molecules powered by Django and
+            PostgreSQL.
+
+      - company: An4a Sas
+        position: Freelance Software Developer
+        location: Milan, IT
+        start_date: 2019-03
+        end_date: 2023-10
+        highlights:
+          - Development of a Django portal that allows insurance brokers to
+            generate a set of quotations from different insurance companies. A
+            flask microservice was also developed to provide a shared interface
+            between the portal and the companies' APIs.
+          - Development of a Django REST API backend for the Mobile Application
+            that allows customers to request quotations for their car insurance.
+          - Development of a set of headless bots to automate the download of
+            invoices from different carriers.
+          - Development of a React Native application for iOS and Android that
+            provides teachers tools to record oral examinations and scan
+            documents related to the exam. Its backend is powered by Flask.
+
+      - company: ARIA spa
+        position: Project Manager & Functional Analyst - Technical Support
+        location: Milan, IT
+        start_date: 2019-01
+        end_date: 2019-12
+        highlights:
+          - Technical support for the GIS group.
+          - Support for integration, deployment, and production issues.
+
+      - company: Digidgroup
+        position: GIS Developer Consultant
+        location: Milan, IT
+        start_date: 2018-09
+        end_date: 2019-12
+        highlights:
+          - Development of several widgets powered by ArcGIS JS technologies and
+            geoprocessing operations with the ArcGIS py API for several
+            geoportal applications of the Lombardy Region.
+
+      - company: Everyware Lab, University of Milan
+        position: Mobile Developer Internship
+        location: Milan, IT
+        start_date: 2017-11
+        end_date: 2018-02
+        highlights:
+          - Research of an accessible and adaptable solution for a
+            cross-platform mobile game to teach maths to visually impaired
+            children.
+          - Porting of an accessible iOS application to cross-platform with
+            React Native retaining the same level of accessibility.
+
+    education:
+      - institution: Università degli Studi di Milano
+        area: Digital Communication for Computer Science
+        degree: B.S.
+        start_date: 2013-10
+        end_date: 2018-04
+        highlights: []
+
+    publications:
+      - title: "The Molecules Gateway: A Homogeneous, Searchable Database of 150k
+          Annotated Molecules from Actinomycetes"
+        authors:
+          - Matteo Simone
+          - Marianna Iorio
+          - Paolo Monciardini
+          - Massimo Santini
+          - Niccolò Cantù
+          - Arianna Tocchetti
+          - Stefania Serina
+          - Cristina Brunati
+          - Thomas Vernay
+          - Andrea Gentile
+          - Mattia Aracne
+          - Marco Cozzi
+          - Justin J. J. van der Hooft
+          - Margherita Sosio
+          - Stefano Donadio
+          - Sonia I. Maffioli
+        journal: Journal of Natural Products
+        date: 2024
+        doi: 10.1021/acs.jnatprod.4c00857
+
+      - title: "Developing Accessible Mobile Applications with Cross-Platform
+          Development Frameworks"
+        authors:
+          - Sergio Mascetti
+          - Mattia Ducci
+          - Niccolò Cantù
+          - Paolo Pecis
+          - Dragan Ahmetovic
+        date: 2021
+        doi: 10.1145/3441852.3476469
+
+      - title: "Developing Accessible Mobile Applications with Cross-Platform
+          Development Frameworks"
+        authors:
+          - Sergio Mascetti
+          - Mattia Ducci
+          - Niccolò Cantù
+          - Paolo Pecis
+          - Dragan Ahmetovic
+        journal: arXiv preprint arXiv:2005.06875
+        date: 2020
+
+      - title: "Multimodal Exploration of Mathematical Function Graphs with
+          AudioFunctions.web"
+        authors:
+          - Dragan Ahmetovic
+          - Niccolò Cantù
+          - Cristian Bernareggi
+          - João Guerreiro
+          - Sergio Mascetti
+          - Anna Capietto
+        journal: Proceedings of the 16th Web For All 2019 Personalization-Personalizing
+          the Web
+        date: 2019
+
+      - title: "MathMelodies 2: a Mobile Assistive Application for People with Visual
+          Impairments Developed with React Native"
+        authors:
+          - Niccolò Cantù
+          - Mattia Ducci
+          - Dragan Ahmetovic
+          - Cristian Bernareggi
+          - Sergio Mascetti
+        date: 2018
+        doi: 10.1145/3234695.3241006
+
+    skills:
+      - label: Programming Languages
+        details: Python, JavaScript, TypeScript, Java, Bash, SQL
+      - label: Frameworks & Libraries
+        details: Django, React, React Native, NodeJS, Flask
+      - label: Databases
+        details: PostgreSQL, PostGIS, DuckDB, Firebase
+      - label: DevOps & Infrastructure
+        details: Docker, Kubernetes, Git, Terraform, GNU/Linux
+      - label: GIS & Spatial
+        details: GDAL, Maplibre, PostGIS
+      - label: Other
+        details: GraphQL, Accessibility
+      - label: Languages
+        details: Italian (Native), English (B2), Norwegian (A1)
+
+design:
+  theme: classic
