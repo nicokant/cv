@@ -13,7 +13,7 @@ cv:
   sections:
     work_experience:
       - company: Norsk Institutt for Naturforskning
-        position: Overingeniør-IT
+        position: Software Developer
         location: Trondheim -> Oslo, NO
         start_date: 2023-10
         end_date: present
@@ -28,7 +28,7 @@ cv:
           - Data engineering, data migration, technical support and training.
 
       - company: Kjuicer.com
-        position: Full Stack Developer
+        position: Full Stack Software Developer
         location: Milan, IT
         start_date: 2015-03
         end_date: 2023-03
@@ -61,7 +61,7 @@ cv:
             the timeseries annotations software.
 
       - company: Gisdev.io srl
-        position: Freelance Software Developer
+        position: Freelance Full Stack Software Developer
         location: Como, IT
         start_date: 2018-09
         end_date: 2023-10
@@ -86,7 +86,7 @@ cv:
           - Support and deployment of Lizmap instances using Docker compose.
 
       - company: Code Atlas srl
-        position: Freelance Full Stack Developer
+        position: Freelance Full Stack Software Developer
         location: Milan, IT
         start_date: 2018-12
         end_date: 2023-10
@@ -100,7 +100,7 @@ cv:
             PostgreSQL.
 
       - company: An4a Sas
-        position: Freelance Software Developer
+        position: Freelance Full Stack Software Developer
         location: Milan, IT
         start_date: 2019-03
         end_date: 2023-10
