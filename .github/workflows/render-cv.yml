@@ -31,7 +31,7 @@ jobs:
 
       - name: Render CV
         run: |
-          uvx --with rendercv[full] rendercv render -nopng -html rendercv_output/index.html cv.yaml
+          uv run rendercv render -nopng -html rendercv_output/index.html cv.yaml
 
       - name: Upload artifacts
         uses: actions/upload-artifact@v4
